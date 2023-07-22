@@ -1,20 +1,12 @@
 const emailInput = document.querySelector('#email-input');
 const resultsList = document.querySelector('#results-list');
 const resultLength = document.querySelector('#result-length');
-const copyButtons = document.querySelectorAll('.fa-clipboard');
 
 
 window.addEventListener('load', () => { 
   emailInput.focus();
 });
 
-copyButtons.forEach((button) => {
-  button.addEventListener('click', (event) => {
-    const email = event.target.parentElement.innerText;
-    console.log(email);
-    navigator.clipboard.writeText(email);
-  })
-});
 
 const generateEmailVariants = (username) => {
   const n = username.length;
@@ -41,7 +33,7 @@ const generateEmailVariants = (username) => {
 emailInput.addEventListener('input', (event) => {
   const email = event.target.value;
   const variants = generateEmailVariants(email);
-
+  
   resultsList.innerHTML = '';
 
   if (variants.length > 0 && emailInput.value.length > 0) {
@@ -54,6 +46,16 @@ emailInput.addEventListener('input', (event) => {
   } else {
     resultLength.parentElement.classList.add('hidden');
   }
- 
+
+  const copyButtons = document.getElementsByTagName('i');
+
+  Array.from(copyButtons).forEach((button) => {
+    button.addEventListener('click', (event) => {
+      const email = event.target.parentElement.innerText;
+      navigator.clipboard.writeText(email);
+    })
+  });
 });
+
+
 
