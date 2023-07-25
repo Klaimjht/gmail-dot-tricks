@@ -17,7 +17,7 @@ To use the Gmail Dot Tricks Generator, follow these steps:
 1. Visit the [GitHub Pages website](https://julienawonga.github.io/gmail-dot-tricks/) associated with this project.
 2. Enter your original Gmail address in the input field .
 3. Click the "Generate" button to obtain various dot tricks for your email address.
-4. You will be presented with a list of email variations using dots.
+4. You will be presented with a list of email variations using dots .
 5. Use any of these generated variations to receive emails in your original Gmail inbox .
 
 ## License
