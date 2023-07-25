@@ -1,8 +1,8 @@
-# Gmail Dot Tricks Generator
+# Gmail Dot Tricks Generator 
 
 ![GitHub](https://img.shields.io/github/license/julienawonga/gmail-dot-tricks)
 
-Welcome to the Gmail Dot Tricks Generator repository! This project allows you to generate Gmail dot tricks for your email address, making it easier to manage and filter incoming emails.
+Welcome to the Gmail Dot Tricks Generator repository ! This project allows you to generate Gmail dot tricks for your email address, making it easier to manage and filter incoming emails.
 
 ## Overview
 
