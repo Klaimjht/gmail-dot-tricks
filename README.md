@@ -26,7 +26,7 @@ This project is licensed under the [MIT License](https://github.com/julienawonga
 
 ## About the Author
 
-My name is Julien Awonga, and I am the creator and maintainer of this Gmail Dot Tricks Generator. I am passionate about programming and enjoy building tools that make life easier for others.
+My name is Julien Awonga, and I am the creator and maintainer of this Gmail Dot Tricks Generator. I am passionate about programming and enjoy building tools that make life easier for others .
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/julienawonga/) to stay updated on my latest projects and activities.
 
