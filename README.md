@@ -8,7 +8,7 @@ Welcome to the Gmail Dot Tricks Generator repository ! This project allows you t
 
 Gmail allows users to insert dots (periods) in their email addresses, and all variations with or without dots will still be delivered to the same inbox. For example, "<example@gmail.com>" and "<ex.ample@gmail.com>" refer to the same Gmail account.
 
-This repository contains the code for a web application that generates Gmail dot tricks for a given email address. It includes HTML, CSS, and JavaScript files that power the user interface and functionality of the generator.
+This repository contains the code for a web application that generates Gmail dot tricks for a given email address. It includes HTML, CSS, and JavaScript files that power the user interface and functionality of the generator .
 
 ## How to Use
 
