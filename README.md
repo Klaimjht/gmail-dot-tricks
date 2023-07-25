@@ -35,6 +35,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/julienawonga/) to stay
 Contributions to this project are welcome! If you have any suggestions, bug reports, or improvements to the generator, feel free to open an issue or submit a pull request.
 
 Thank you for using the Gmail Dot Tricks Generator. Happy email managing!
-
 ---
 
